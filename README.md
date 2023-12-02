@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi n there 👋
 
 SEZER ŞENGÜL
 **sezersengul49/sezersengul49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
