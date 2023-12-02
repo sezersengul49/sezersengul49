@@ -1,16 +1,23 @@
-### Hi n there 👋
+# Hello, I'm [Sezer ŞENGÜL] 👋
 
-SEZER ŞENGÜL
-**sezersengul49/sezersengul49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a Front-End Developer with strong skills in HTML, CSS, and JavaScript. I enjoy creating creative and aesthetic user interfaces, improving user experience, and keeping up with modern web technologies.
 
-Here are some ideas to get you started:
+- 🚀 Proficient in HTML, CSS, and JavaScript.
+- 🎨 Enjoy designing user-friendly and appealing interfaces.
+- 📚 Focused on continuous learning and self-improvement.
+- 💬 Good communication and teamwork skills.
+- 🤝 Team player, passionate about both learning and teaching.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Projects
+Here are some of my projects:
 
+
+
+## Skills
+- HTML5
+- CSS3 / Sass
+- JavaScript / ES6+
+- React
+- Vue.js
+- Git / GitHub
