@@ -16,8 +16,8 @@ Here are some of my projects:
 
 ## Skills
 - HTML5
-- CSS3 / Sass
-- JavaScript / ES6+
+- CSS3 
+- JavaScript 
 - React
 - Vue.js
 - Git / GitHub
