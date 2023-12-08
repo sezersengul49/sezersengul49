@@ -1,6 +1,6 @@
 # Hello, I'm [Sezer ŞENGÜL] 👋
 
-## About Me
+
 I am a Front-End Developer with strong skills in HTML, CSS, and JavaScript. I enjoy creating creative and aesthetic user interfaces, improving user experience, and keeping up with modern web technologies.
 
 - 🚀 Proficient in HTML, CSS, and JavaScript.
@@ -19,5 +19,4 @@ Here are some of my projects:
 - CSS3 
 - JavaScript 
 - React
-- Vue.js
 - Git / GitHub
