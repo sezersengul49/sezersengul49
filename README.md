@@ -9,11 +9,6 @@ I am a Front-End Developer with strong skills in HTML, CSS, and JavaScript. I en
 - 💬 Good communication and teamwork skills.
 - 🤝 Team player, passionate about both learning and teaching.
 
-## Projects
-Here are some of my projects:
-
-
-
 ## Skills
 - HTML5
 - CSS3 
