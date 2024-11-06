@@ -8,6 +8,7 @@ I am a Front-End Developer with strong skills in HTML, CSS, and JavaScript. I en
 - 📚 Focused on continuous learning and self-improvement.
 - 💬 Good communication and teamwork skills.
 - 🤝 Team player, passionate about both learning and teaching.
+- 📫 How can you reach me sezersengul@outlook.com.tr
 
 ## Skills
 - HTML5
@@ -15,3 +16,8 @@ I am a Front-End Developer with strong skills in HTML, CSS, and JavaScript. I en
 - JavaScript 
 - React
 - Git / GitHub
+  typescript
+- Redux
+- Tailwind
+- Sass
+- Bootstrap
